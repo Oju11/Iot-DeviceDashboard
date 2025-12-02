@@ -1,4 +1,4 @@
-DeviceDashboard — Full Stack IoT Dashboard
+Iot DeviceDashboard — Full Stack IoT Dashboard
 
 A modern full-stack IoT monitoring dashboard built using React + TypeScript on the frontend and Node.js + TypeScript on the backend.
 This project includes real-time device state updates, user interface components, server routes, shared schema definitions, and build scripts — all organized in a clean monorepo-style folder structure.
